@@ -48,7 +48,7 @@ body{
     display: inline-block;
 }
 img{
-    image-orientation: from-image;
+    /*image-orientation: from-image;*/
     display: inline-block;
 }
 .one{
