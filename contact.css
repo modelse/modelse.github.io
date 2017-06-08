@@ -1,0 +1,61 @@
+#top{
+    width: 100%;
+    margin:0px;
+    height:300px;
+}
+#toolbar{
+    background-image:url("wood base.jpg");
+    height:2%;
+    width:100%;
+    border-bottom: #a87eb5 1px solid;
+    vertical-align: top;
+    margin-top: -1.5%;
+}
+.item{
+    display: inline;
+    color:grey;
+    font-size: 29px;
+    border-right: 2px solid white;
+    margin-left: 2%;
+    padding-right: 2%;
+    vertical-align: top;
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+}
+body{
+    vertical-align: top;
+}
+#main{
+    background-image:url("whiteback2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    width:100%;
+
+}
+#text{
+    width:40%;
+    vertical-align: top;
+    display: inline-block;
+    font-size: 25px;
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+    margin: 5%;
+    margin-left: 40%;
+}
+ul{
+    list-style-type: none;
+}
+h2{
+    display:inline;
+    margin-left: -40%;
+}
+#transparent{
+    background: rgba(204, 204, 204, 0.7) ;
+    padding:30px;
+    width:90%;
+    margin:0 auto;
+
+}
+a{
+    color:grey;
+}
