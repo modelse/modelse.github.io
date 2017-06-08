@@ -47,8 +47,13 @@ body{
     width:30%;
     display: inline-block;
 }
+@-moz-document url-prefix(){
+    img{
+        image-orientation: from-image;
+        display: inline-block;
+    }
+}
 img{
-    /*image-orientation: from-image;*/
     display: inline-block;
 }
 .one{
