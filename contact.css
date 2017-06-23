@@ -34,20 +34,20 @@ body{
 
 }
 #text{
-    width:40%;
+    width:85%;
     vertical-align: top;
     display: inline-block;
     font-size: 25px;
     font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
     margin: 5%;
-    margin-left: 40%;
+
 }
 ul{
     list-style-type: none;
 }
-h2{
+h4{
     display:inline;
-    margin-left: -40%;
+
 }
 #transparent{
     background: rgba(204, 204, 204, 0.7) ;
@@ -58,4 +58,7 @@ h2{
 }
 a{
     color:grey;
+}
+#photo{
+    margin-left: 40%;
 }
